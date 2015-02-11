@@ -1,0 +1,119 @@
+body {
+    background-image: url(images/fruits.png);
+    background-size: cover !important;
+    background-repeat: no-repeat;
+}
+
+.username {
+    display: none;
+    color: #8C191C;
+    font-size: 18px;
+    text-align: center;
+}
+.chatbox {
+    display: none;
+    width: 500px;
+
+ /*  height: 200px;*/
+}
+.msgbox {
+    display: none;
+}
+.chomp {
+    margin-left: 35%;
+    margin-top: 20%;
+}
+
+.form-control {
+    width: 30%;
+    height: 30px;
+    border-radius: 4px;
+    margin-left: 30%;
+    color: #8C191C;
+}
+.signup {
+    height: 35px;
+    border-radius: 4px;
+    background-color: white;
+    color: #8C191C;
+
+}
+.chatrooms {
+    display: none;
+}
+.enterroom {
+    width: 35%;
+    height: 35px;
+    margin-left: 30%;
+    border-radius: 4px;
+    background-color: white;
+    margin-top: 1%;
+    color: #8C191C;
+
+}
+.room1 {
+    width: 70%;
+
+    border-radius: 4px;
+    margin-left: 13%;
+
+}
+.header2 {
+    display: none;
+    width: 30%;
+    margin-left: 12%;
+}
+.home{
+    float: right;
+    display: none;
+    height: 30px;
+    vertical-align: middle;
+    background-color:white;
+    border-radius: 4px;
+    color:#8C191C;
+    margin-right: 17%;
+
+
+
+}
+.type {
+    width: 60%;
+    height: 30px;
+    border-radius: 4px;
+    margin-left: 13%;
+    margin-top: 1%;
+
+}
+.send {
+    height: 30px;
+    border-radius: 4px;
+    background-color: white;
+    color: #8C191C;
+}
+.delete {
+    height: 30px;
+    border-radius: 4px;
+    background-color: white;
+    color: #8C191C;
+}
+li {
+    list-style-type: none;
+    text-decoration: none;
+    float: right;
+    margin-right: 5%;
+
+}
+.notactive {
+    display: none;
+}
+
+ #yum2 {
+    display: none;
+}
+#yum3 {
+    display: none;
+}
+
+.active {
+  display: block;
+}
